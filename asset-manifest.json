@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Exercie_app/static/css/main.2ba06289.css",
+    "main.js": "/Exercie_app/static/js/main.00497052.js",
+    "static/media/banner.png": "/Exercie_app/static/media/banner.ada2a10f1fbf714043e2.png",
+    "static/media/Logo-1.png": "/Exercie_app/static/media/Logo-1.d2bd363c0d1476ff45d1.png",
+    "static/media/gym.png": "/Exercie_app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Exercie_app/index.html",
+    "main.2ba06289.css.map": "/Exercie_app/static/css/main.2ba06289.css.map",
+    "main.00497052.js.map": "/Exercie_app/static/js/main.00497052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba06289.css",
+    "static/js/main.00497052.js"
+  ]
+}
